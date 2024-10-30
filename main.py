@@ -8,7 +8,7 @@ def query_chat(information):
     summary_template = """
         Stwórz mi zdania według szablonu, Jeżeli możesz stworzyć zdanie w pierwszej osobie liczby pojedyńczej, to, to zrób, twórz możliwie proste zdania:
 
-        Podam ci w następnych wiadomościach frazy, które chce wykorzystać i ile chciałbym, żebyś wygenerował zdań, dobrze? Jeżeli nie podam żadnej liczby to domyślnie stwórz 1 zdanie
+        Podam ci w następnych wiadomościach frazy, które chce wykorzystać.
 
         <szablon>
         ---
