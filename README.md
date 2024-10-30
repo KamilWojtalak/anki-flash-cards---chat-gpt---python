@@ -1,1 +1,1 @@
-Populate storage/input.txt with english phrases and run python main.py
+Populate storage/input.txt with english phrases and run python main.py 
